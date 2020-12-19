@@ -1,2 +1,2 @@
 This is my first txt file.
-second edit.
+I added and commited this file in github repo
